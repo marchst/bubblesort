@@ -1,3 +1,5 @@
+package buble;
+
 public class Person {
     String[][] person = new String[5][3];
     private String[] str1 = {"Alan", "18", "Men"};
